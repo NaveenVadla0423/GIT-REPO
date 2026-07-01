@@ -1,0 +1,28 @@
+======================================================================
+NIFTY OPTIONS ADAPTIVE TRADING SYSTEM - REPORT
+Generated: 2026-07-02 03:29:40
+======================================================================
+
+SECTION 1: DATA SUMMARY
+----------------------------------------------------------------------
+spot_records: 1826
+options_records: 102256
+date_range: 2021-07-03 to 2026-07-02
+trade_logs: 0
+database_file: nifty_options_5years.db
+
+SECTION 3: CURRENT MARKET STATUS
+----------------------------------------------------------------------
+Gap: -0.42%
+Direction: NEUTRAL
+Current Spot: 20362.17
+
+SECTION 4: IV ANALYSIS
+----------------------------------------------------------------------
+IV Rank: 45.7%
+
+SECTION 5: TODAY'S RECOMMENDATION
+----------------------------------------------------------------------
+Strategy: IRON_BUTTERFLY
+Rationale: Neutral gap (-0.42%) with normal IV (45.7%). Stable market.
+
